@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ur" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>اکاؤنٹ اور ڈیٹا ڈیلیٹ کرنے کی درخواست</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            text-align: center;
+            padding: 50px;
+        }
+        .container {
+            max-width: 600px;
+            background: #fff;
+            padding: 30px;
+            margin: auto;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 { color: #d9534f; }
+        p { line-height: 1.6; }
+        .email-box {
+            margin-top: 20px;
+            font-size: 18px;
+            font-weight: bold;
+            color: #0275d8;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h2>اکاؤنٹ اور ڈیٹا ڈیلیٹ کرنے کی درخواست</h2>
+    <p>اگر آپ اپنی ایپ سے اپنا اکاؤنٹ اور اس سے وابستہ تمام ڈیٹا (موبائل نمبر اور نام) حذف کروانا چاہتے ہیں، تو آپ نیچے دی گئی ای میل پر رابطہ کر سکتے ہیں۔</p>
+    <p>براہ کرم اپنی ای میل میں اپنا وہی **موبائل نمبر** لکھ کر بھیجیں جس پر آپ کا اکاؤنٹ بنا ہوا ہے۔ ہم موصول ہونے پر آپ کا تمام ڈیٹا 48 گھنٹوں کے اندر مستقل طور پر حذف کر دیں گے۔</p>
+    
+    <div class="email-box">
+        ای میل: <a href="xzealyn@gmail.com">آپ_کی_اپنی_ایمیل@gmail.com</a>
+    </div>
+</div>
+
+</body>
+</html>
